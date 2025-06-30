@@ -1,0 +1,17 @@
+streamlit
+requests
+langchain
+langchain-google-genai
+FAISS
+PyYAML
+torch
+torchvision
+Pillow
+scikit-image
+matplotlib
+numpy
+google-generativeai
+joblib
+tensorflow
+tensorflow-io
+scikit-learn
